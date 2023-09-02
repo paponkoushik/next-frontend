@@ -1,1 +1,7 @@
 export { default as GracenoteLogo } from './icons/GracenoteLogo.svg'
+export { default as NotificationLogo } from './icons/NotificationLogo.svg'
+export { default as SentimentDissatisfied } from './icons/SentimentDissatisfied.svg'
+export { default as SentimentVeryDissatisfied } from './icons/SentimentVeryDissatisfied.svg'
+export { default as SentimentVerySatisfied } from './icons/SentimentVerySatisfied.svg'
+export { default as SentimentSatisfied } from './icons/SentimentSatisfied.svg'
+export { default as CheckCircle } from './icons/CheckCircle.svg'
